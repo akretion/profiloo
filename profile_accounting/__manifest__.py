@@ -22,30 +22,30 @@
      'account_bank_statement_import_usability',
 
      # https://github.com/OCA/sale-workflow
-     'sale_commercial_partner',  # install v11 OK on 9 Aout 2017
+     'sale_commercial_partner',
 
      # base
      'account_accountant',
 
      # https://github.com/OCA/account-financial-tools
-     'account_partner_required',  # install v11 OK on 9 Aout 2017
-     'account_fiscal_position_vat_check',  # install v11 OK on 9 Aout 2017
+     'account_partner_required',
+     'account_fiscal_position_vat_check',
 
      # https://github.com/OCA/account-invoicing
-     'account_payment_term_extension',  # install v11 OK on 9 Aout 2017
-     'account_invoice_fiscal_position_update',  # install v11 OK on 9 Aout 2017
+     'account_payment_term_extension',
+     'account_invoice_fiscal_position_update',
 
      # https://github.com/OCA/account-financial-reporting
      'account_financial_report_qweb',
-     'account_move_line_payable_receivable_filter',  # install v11 OK on 9 Aout 2017
+     'account_move_line_payable_receivable_filter',
 
      # https://github.com/OCA/bank-statement-import
-     'account_bank_statement_import_save_file',  # install v11 OK on 9 Aout 2017
-     'account_bank_statement_import_ofx',  # install v11 OK on 9 Aout 2017
+     'account_bank_statement_import_save_file',
+     'account_bank_statement_import_ofx',
      'account_bank_statement_no_reconcile_guess',
 
      # https://github.com/OCA/bank-payment
-     'account_payment_partner', # NOT OK (depends on account_payment_mode which breaks)
+     'account_payment_partner',
 
      # https://github.com/akretion/account-move-import
      'account_move_csv_import',
