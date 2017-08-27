@@ -32,7 +32,6 @@
  """,
  'depends': [
      'profile_accounting',
-     'account_invoice_currency',
      'currency_rate_date_check',
      'currency_rate_update',
  ],
