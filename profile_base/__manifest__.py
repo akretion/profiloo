@@ -4,7 +4,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {'name': 'Base Profile',
- 'version': '0.0.1',
+ 'version': '10.0.0.1.0',
  'author': 'Akretion',
  'website': 'www.akretion.com',
  'license': 'AGPL-3',
@@ -18,7 +18,6 @@
      # https://github.com/akretion/odoo-usability
      'base_usability',
      'mail_usability',
-     'base_technical_features',
      'base_company_extension',
      'eradicate_quick_create',
      'partner_tree_default',
@@ -28,6 +27,7 @@
      'partner_firstname',
 
      # https://github.com/OCA/server-tools
+     'base_technical_features',
      'scheduler_error_mailer',
      'disable_odoo_online',
 
@@ -35,8 +35,6 @@
      'web_sheet_full_width',
      'web_export_view',
      'web_translate_dialog',
- ],
- 'data': [
  ],
  'installable': True,
  'application': True,
