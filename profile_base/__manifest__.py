@@ -23,9 +23,6 @@
      'partner_tree_default',
      'base_partner_ref',
 
-     # https://github.com/OCA/partner-contact
-     'partner_firstname',
-
      # https://github.com/OCA/server-tools
      'base_technical_features',
      'scheduler_error_mailer',
