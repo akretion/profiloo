@@ -19,9 +19,10 @@
      'base_usability',
      'mail_usability',
      'base_company_extension',
-     'eradicate_quick_create',
      'partner_tree_default',
      'base_partner_ref',
+     # optionnal
+     #'eradicate_quick_create', be careful have ui issue with project
 
      # https://github.com/OCA/server-tools
      'base_technical_features',
